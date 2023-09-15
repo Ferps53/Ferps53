@@ -3,8 +3,14 @@
 
 - 🔭 Hoje sou desenvolvedor FullStack em Java e AngularJs
 - 🌱 Estou estudando Dart, Flutter e Quarkus
+
+  <div>
+    ![Felipe Brostolin Ribeiro](https://github-readme-stats.vercel.app/api?username=Ferps53&show_icons=true&theme=dracula&locale=pt-br)
+  </div>
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferps53&hide=cmake,c++,swift&theme=dracula&show_icons=true&layout=compact&locale=pt-br)](https://github.com/Ferps53/github-readme-stats)
+  </div>
   
-  ![Felipe Brostolin Ribeiro](https://github-readme-stats.vercel.app/api?username=Ferps53&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
