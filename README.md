@@ -1,7 +1,7 @@
 ## Opa! Tudo certo? Eu sou o Felipe Brostolin Ribeiro
 
 
-- 🔭 Hoje sou desenvolvedor FullStack em Java e AngularJs
+- 🔭 Hoje sou desenvolvedor FullStack em Java(Quarkus), AngularJs e Angular 17
 - 🌱 Estou estudando Dart, Flutter e Quarkus
 
 
