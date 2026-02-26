@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje sou desenvolvedor FullStack em Java(Quarkus), AngularJs e Angular 17
-- 🌱 Estou estudando Dart, Flutter e Golang
+- 🌱 Estou estudando Dart, Flutter e Zig
 
 
 ![Felipe Brostolin Ribeiro](https://github-readme-stats.vercel.app/api?username=Ferps53&show_icons=true&theme=catppuccin_mocha&locale=pt-br)
